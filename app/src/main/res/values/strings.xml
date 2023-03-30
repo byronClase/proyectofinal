@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app_tienda_byron</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">log_in</string>
+    <string name="salida">salida</string>
+    <string name="http_192_168_0_2_byron_componentes_tienda_json">http://192.168.0.2/byron/componentes_tienda.json</string>
+    <string name="todo">TODO</string>
+</resources>
